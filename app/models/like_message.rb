@@ -1,0 +1,2 @@
+class LikeMessage < ApplicationRecord
+end
