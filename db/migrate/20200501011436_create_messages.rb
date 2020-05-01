@@ -7,6 +7,7 @@ class CreateMessages < ActiveRecord::Migration[6.0]
       t.belongs_to :recipient, index: true
       t.belongs_to :parent, index: true
       t.boolean :private
+      
       t.timestamps
     end
   end

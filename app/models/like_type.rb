@@ -1,2 +1,0 @@
-class LikeType < ApplicationRecord
-end

@@ -1,2 +1,0 @@
-class LikeMessage < ApplicationRecord
-end
